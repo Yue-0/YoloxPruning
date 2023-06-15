@@ -1,4 +1,6 @@
-## PaddlePaddle版本代码已经在AI Studio开源，[点击传送](https://aistudio.baidu.com/aistudio/projectdetail/5434529?sUid=142003&shared=1&ts=1686826090043)
+# YoloxPruning
+
+# PaddlePaddle版本代码已经在AI Studio开源，[点击传送](https://aistudio.baidu.com/aistudio/projectdetail/5434529?sUid=142003&shared=1&ts=1686826090043)
 
 目前PaddlePaddle版本是临时版本，正式版本使用torch编写，由于后期实验较多，代码太乱，现在没有时间整理，整理完毕后将发布在这里。
 
