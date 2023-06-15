@@ -11,7 +11,7 @@
 wget https://bj.bcebos.com/v1/paddledet/data/voc.zip
 ```
 ### 2. 解压刚刚下载的VOC数据集和data目录下的COCO数据集
-### 3. 在work目录安装PaddleDetection，[查看教程](https://github.com/PaddlePaddle/PaddleDetection)
+### 3. 在work目录安装PaddleDetection，[查看教程](https://github.com/PaddlePaddle/PaddleDetection/blob/release/2.6/docs/tutorials/QUICK_STARTED_cn.md)
 ### 4. 使用work/slim目录下的yaml文件进行剪枝，[查看教程](https://github.com/PaddlePaddle/PaddleDetection/tree/release/2.6/configs/slim)
 
 ### 5.进入PaddleDetection目录，剪枝后微调训练代码示例：
